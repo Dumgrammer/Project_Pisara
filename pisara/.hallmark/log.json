@@ -1,0 +1,35 @@
+[
+  {
+    "date": "2026-10-01",
+    "macrostructure": "Bento Grid + Workbench",
+    "theme": "Hum",
+    "theme_axes": "light / rounded-sans / multi-accent",
+    "enrichment": "CSS dot marks (Tier A) on marketing; none on app",
+    "nav": "N1b marketing · N3 app",
+    "footer": "Ft5 marketing · status-strip app",
+    "scope": "app",
+    "brief": "Pisara Hum lock: cream paper, pear+cyan+coral multi-accent, Plus Jakarta Sans, push buttons, rounded cards"
+  },
+  {
+    "date": "2026-10-01",
+    "macrostructure": "Narrative Workflow",
+    "theme": "custom",
+    "theme_axes": "light / roman-serif / cool",
+    "vibe": "editorial ops ledger",
+    "enrichment": "CSS ledger (Tier A)",
+    "nav": "N6 Newspaper masthead",
+    "footer": "Ft1 Mast-headed",
+    "brief": "Pisara public home — pitch the workbench, CTA into /dashboard"
+  },
+  {
+    "date": "2026-09-30",
+    "macrostructure": "App workbench (bespoke shell: side rail · command bar · canvas · status strip)",
+    "theme": "custom",
+    "theme_axes": "light / grotesk-sans / cool",
+    "vibe": "technical instrument panel, calm, precise",
+    "enrichment": "none",
+    "nav": "side rail + inline search pill",
+    "footer": "none (status strip)",
+    "brief": "Pisara · internal ops ticketing workbench (dashboard, projects, tickets)"
+  }
+]

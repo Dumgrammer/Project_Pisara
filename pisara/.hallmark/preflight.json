@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-01",
+  "framework": "Next.js 16.3.7 (App Router)",
+  "fonts": "Plus Jakarta Sans + JetBrains Mono via next/font (app/layout.tsx)",
+  "palette": "Hum multi-accent OKLCH tokens in styles/tokens.css (design.md)",
+  "styling": "Tailwind v4 (@import \"tailwindcss\" + @theme inline) + MUI v9 cssVariables",
+  "motion": "none installed (CSS transform/opacity + spring easing)",
+  "conflicts": [],
+  "preserved": ["Tailwind v4 entry directives", "route tree", "MUI DataGrid workbench"]
+}
